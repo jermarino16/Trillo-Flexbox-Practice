@@ -1,5 +1,5 @@
 {
-  "name": "Trillo",
+  "name": "trillo",
   "version": "1.0.0",
   "description": "trillo app",
   "main": "index.js",
@@ -20,5 +20,13 @@
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.1.1",
     "postcss-cli": "^4.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jermarino16/Trillo-Flexbox-Practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jermarino16/Trillo-Flexbox-Practice/issues"
+  },
+  "homepage": "https://github.com/jermarino16/Trillo-Flexbox-Practice#readme"
 }
